@@ -1,7 +1,7 @@
 import Toybox.Application;
 import Toybox.Lang;
 import Toybox.WatchUi;
-
+// Test commit after rename
 class HelloWorldApp extends Application.AppBase {
 
     function initialize() {
