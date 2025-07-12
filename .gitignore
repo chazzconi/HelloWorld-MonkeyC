@@ -1,0 +1,19 @@
+# Connect IQ build output and temporary files
+*.prg
+*.iq
+*.iq_*.prg
+*.jar
+*.json
+*.yml
+*.dbg
+*.bak
+*.log
+temp/
+build/
+bin/
+
+# Connect IQ Developer Key (NEVER commit your developer key!)
+developer_key.der
+
+# VS Code files
+.vscode/
